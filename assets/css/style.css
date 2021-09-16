@@ -1,3 +1,4 @@
+/* Setting base style for all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,10 +14,12 @@ a {
     text-decoration: none;
 }
 
+/* Setting default font size for most articles */
 p {
     font-size: 16px;
 }
 
+/* Styling header block title */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,6 +36,7 @@ p {
     color: #d9dcd6; 
 }
 
+/* Navigation bar links styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +54,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styling main website banner */
 .banner {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* float alignment for main article images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styling of the container for the main page articles */
 .content {
     width: 75%;
     display: inline-block;
