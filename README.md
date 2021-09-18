@@ -10,6 +10,6 @@ Some of the inluded changes are:
 - CSS comments to describe important functionality and separate sections logically
 
 Final website: 
-![Horiseon accessible website screenshot.](final.jpg)
+![Horiseon accessible website screenshot.](assets/images/final.png)
 
 See the Website at [Horiseon Solutions](https://ellisonac.github.io/Code-Refactor/)
