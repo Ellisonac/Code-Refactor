@@ -8,8 +8,9 @@ Some of the inluded changes are:
 - Correction of broken self-addressed links
 - Improvement of logical naming conventions
 - CSS comments to describe important functionality and separate sections logically
-
-Final website: 
-![Horiseon accessible website screenshot.](assets/images/final.png)
+- Code cleanup, such as replacing four-space indents with two-space indents.
 
 See the Website at [Horiseon Solutions](https://ellisonac.github.io/Code-Refactor/)
+
+Final Website screenshot:
+![Horiseon accessible website screenshot.](assets/images/final.png)
